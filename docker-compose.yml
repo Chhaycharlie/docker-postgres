@@ -15,7 +15,7 @@ services:
   pgadmin:
     image: dpage/pgadmin4
     environment:
-      PGADMIN_DEFAULT_EMAIL: sonchengchhay@gmail.com
+      PGADMIN_DEFAULT_EMAIL: admin@gmail.com
       PGADMIN_DEFAULT_PASSWORD: admindb2357.!
     ports:
       - "8080:80"
